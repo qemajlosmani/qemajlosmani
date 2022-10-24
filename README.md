@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a software developer from Kosovo. Since January, 2020 I've been living in Germany and working as a Software and System Developer.
-My a young age, my curiousity in Technology got me into coding and experimenting with different technologies. 
+I work on code that helps people be more efficient and effective in their work, whether it’s by automating aspects of their job or giving them new insights into their data.
+I’ve been working in software development for more than 10 years now, and I’ve found that it’s a field where I can constantly learn new things and apply my existing skills in new ways.
 
 <!--
 **qemajlosmani/qemajlosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
