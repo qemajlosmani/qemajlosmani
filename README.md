@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a software developer from Kosovo. Since January, 2020 I've been living in Germany and working as a Software and System Developer.
+My a young age, my curiousity in Technology got me into coding and experimenting with different technologies. 
 
 <!--
 **qemajlosmani/qemajlosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
