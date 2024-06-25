@@ -1,8 +1,7 @@
 ### Hi there 👋
-I am a software developer originally from Kosovo who has resided in Germany since January 2020, where I am employed as a Software and System Developer.
-My focus lies in creating code that enhances individuals' efficiency and effectiveness in their professional endeavors.
-This involves tasks such as automating aspects of their responsibilities or providing valuable insights from data analysis.
-With over a decade of experience in software development, I find this field continually stimulating, allowing me to acquire new knowledge and apply my existing skills in innovative ways.
+I am a proficient software developer originally from Kosovo, now based in Germany since January 2020. In my current role as a Software and System Developer, I specialize in software development, database management, Docker containerization, GitHub version control, and Angular framework.
+My focus is on enhancing efficiency and effectiveness through automation and data-driven insights.
+With more than a decade of experience in these areas, I thrive on leveraging cutting-edge technologies to deliver robust solutions and foster innovation in software engineering.
 <!--
 **qemajlosmani/qemajlosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
