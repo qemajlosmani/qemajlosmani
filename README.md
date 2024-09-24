@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a proficient software developer originally from Kosovo, now based in Germany since January 2020. In my current role as a Software and System Developer, I specialize in software development, database management, Docker containerization, GitHub version control, and Angular framework.
+I am a proficient software developer originally from Kosovo, now based in Germany since January 2020. In my current role as a Software and System Developer, I specialize in software development, database management, Docker containerization, GitHub version control, .NET Core, Angular framework, MySQL, Microsoft SQL Server, RabbitMQ, Kubernetes.
 My focus is on enhancing efficiency and effectiveness through automation and data-driven insights.
 With more than a decade of experience in these areas, I thrive on leveraging cutting-edge technologies to deliver robust solutions and foster innovation in software engineering.
 <!--
