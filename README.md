@@ -16,9 +16,6 @@
 ### 🌱 **Always Learning**:
 I believe in continuous growth and stay updated with the latest technologies and trends in software development. Currently exploring cloud integrations and advanced microservices architecture.
 
-Feel free to explore my repositories or connect with me to discuss exciting projects and ideas! ✨
-
-📫 **Reach Me**: [your email or LinkedIn link]
 <!--
 **qemajlosmani/qemajlosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
