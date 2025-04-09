@@ -2,10 +2,10 @@
 👋 Hi there! I am a proficient software developer originally from Kosovo, now based in Germany since January 2020. I'm a passionate **Full-Stack Developer** with a strong foundation in building robust, scalable, and user-friendly applications. With expertise in both backend and frontend technologies, I enjoy crafting seamless digital experiences. 
 
 ### 💻 **Tech Stack**:
-- **Backend**: .NET, .NET Core, RESTful APIs
-- **Frontend**: Angular (Typescript)
-- **Databases**: MySQL, SQL Server
-- **Tools & Practices**: Agile development, Unit Testing, Git for version control, CI/CD
+- **Backend**: .NET Framework, .NET Core, RESTful APIs
+- **Frontend**: Angular (Typescript), React
+- **Databases**: MySQL, MS SQL Server, MongoDB, PostgreSQL
+- **Tools & Practices**: Agile development, Unit Testing, Git for version control, CI/CD, RabbitMQ, Docker
 
 ### 🚀 **What I Do**:
 - Design and develop **REST APIs** to power modern applications.
