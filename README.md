@@ -9,7 +9,7 @@
 
 ### 🚀 **What I Do**:
 - Design and develop **REST APIs** to power modern applications.
-- Build dynamic, responsive, and scalable **web applications** with Angular.
+- Build dynamic, responsive, and scalable **web applications** with Angular and React.
 - Optimize database performance and write efficient queries for **MySQL** and **SQL Server**.
 - Collaborate across teams to deliver high-quality software solutions.
 
